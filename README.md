@@ -1,2 +1,1 @@
-# zamanla-degisen-title
-Her Saniye Değişen Title
+ # Her Saniye Değişen Title
